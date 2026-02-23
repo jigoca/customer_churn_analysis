@@ -24,6 +24,7 @@ Calculated:
 * Overall Churn Rate
 * Churned Customers
 * Analyze several distributions
+
 ![Overall churn rate.](/1_churn_rate.png "Customer churn rate.")
 ![Churn rate by tenure.](/2_churn_tenure.png "Churn rate by tenure.")
 ![Churn rate by contract type.](/3_churn_contract_type.png "Churn rate by contract type.")
@@ -32,6 +33,7 @@ Calculated:
 3. ### Churn Prediction Model (Python)
 * Develop a churn prediction model using several machine learning algorithms 
 * Evaluate the model's performance
+
 ![Churn prediction model.](/5_ml_1.png "Machine learning model performance part 1.")
 ![Churn prediction model.](/6_ml_2.png "Machine learning model performance part 2.")
 
